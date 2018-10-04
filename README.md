@@ -1,3 +1,3 @@
-# SASS-Testing
+# SASS-Test
 
-This is a SASS test pushed to GitHub
+Testing SASS out.
