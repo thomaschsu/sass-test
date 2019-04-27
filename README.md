@@ -1,6 +1,6 @@
 # SCSS-Page
 
-Just a little SCSS page
+Simple web page using some SCSS.
 
 Live link:
 https://thomaschsu.github.io/scss-page/
